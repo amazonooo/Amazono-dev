@@ -24,6 +24,6 @@
 
   <h2>🛠️ Tech Stack & Tools</h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,bun,sass,vercel,git,threejs,nginx,electron,figma,gcp,githubactions,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,bun,sass,redux,vercel,git,githubactions,electron,vite,threejs,nginx,nodejs,pnpm,figma,gcp,vscode&perline=10" />
   </p>
 </div>
