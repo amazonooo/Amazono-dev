@@ -8,9 +8,9 @@
       width="400"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amazonooo&layout=compact&hide_border=false&theme=tokyonight" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amazonooo&layout=donut&hide_border=false&theme=tokyonight" 
       alt="Top Languages"
-      width="400"
+      width="350"
     />
   </div>
 
