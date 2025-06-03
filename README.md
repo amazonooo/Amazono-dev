@@ -5,13 +5,13 @@
     <tr>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=amazonooo&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=percentile" 
+          src="https://github-readme-stats.vercel.app/api?username=amazonooo&show_icons=true&hide_border=false&theme=tokyonight&rank_icon=percentile" 
           alt="GitHub Stats"
         />
       </td>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=amazonooo&layout=compact&hide_border=true&theme=tokyonight" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=amazonooo&layout=compact&hide_border=false&theme=tokyonight" 
           alt="Top Languages"
         />
       </td>
@@ -19,7 +19,7 @@
   </table>
 
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=amazonooo&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=amazonooo&theme=tokyonight&hide_border=false" 
     alt="GitHub Streak"
   />
 
