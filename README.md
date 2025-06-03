@@ -10,7 +10,7 @@
 />
 
 <img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=amazonooo&theme=tokyonight&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com?user=amazonooo&theme=radical&hide_border=true"
 />
 
   <br/><br/>
