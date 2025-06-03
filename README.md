@@ -5,12 +5,14 @@
     <img 
       src="https://github-readme-stats.vercel.app/api?username=amazonooo&show_icons=true&hide_border=false&theme=tokyonight&rank_icon=percentile" 
       alt="GitHub Stats"
-      width="350"
+      width="400"
+      height="150"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amazonooo&layout=compact&hide_border=false&theme=tokyonight&card_width=300" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amazonooo&layout=compact&hide_border=false&theme=tokyonight" 
       alt="Top Languages"
-      width="350"
+      width="400"
+      height="150"
     />
   </div>
 
