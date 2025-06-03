@@ -6,13 +6,13 @@
       src="https://github-readme-stats.vercel.app/api?username=amazonooo&show_icons=true&hide_border=false&theme=tokyonight&rank_icon=percentile" 
       alt="GitHub Stats"
       width="400"
-      height="50"
+      height="150"
     />
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amazonooo&layout=compact&hide_border=false&theme=tokyonight" 
       alt="Top Languages"
       width="400"
-      height="150"
+      height="140"
     />
   </div>
 
